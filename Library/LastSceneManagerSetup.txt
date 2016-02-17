@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/seans/main.unity
+- path: Assets/seans/title.unity
   isLoaded: 1
   isActive: 1
